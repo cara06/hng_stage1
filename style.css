@@ -1,0 +1,27 @@
+@import '//fonts.googleapis.com/css?family=Bangers';
+@import '//fonts.googleapis.com/css?family=Iceberg';
+
+body{
+background:#000;
+width:1024px;
+padding:150px 0 0 200px;
+}
+
+h1{
+font-size: 94px;
+font-family:Iceberg;
+background:#eee;
+border-radius:5px;
+width: 800px;
+height: 120px;
+text-align:center;
+padding: 5px 5px 5px 20px;
+}
+
+h3{
+font-size: 60px;
+color:#ff0000;
+font-family:Iceberg;
+padding: 5px 5px 5px 10px;
+letter-spacing:5px;
+}
